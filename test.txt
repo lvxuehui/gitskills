@@ -1,2 +1,3 @@
 abcdefg
 master branch editor CREATING A NEW BRANCH OF FEATURE1 IS QUICK AND SIMPLE
+brach management
